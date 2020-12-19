@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# **Bienvenidos!**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es mi primer proyecto, de mi practica con React. 
+Al ser el primero tiene errores, sepan disculpar, estoy aprendiendo, tambien es la primera vez que subo a GitHub. 
 
-## Available Scripts
+Seguire subiendo los demas proyectos realizados unicamente con JavaScript y mis proximas practicas con React.
 
-In the project directory, you can run:
+**Este proyecto es una pagina de Prestamos que calcula segun la cantidad de dinero y plazo un determinado interes.**
 
-### `npm start`
+* *Tiene un error detectado, que ocurre, luego de realizar una cotizacion y modificamos  en cero el monto y/o sin plazo, no genera el mensaje de error, lo tendre que arreglar.*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+La web esta activa en Netlify:
+https://prestamos-react-mvanacore.netlify.app/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## # Sobre mi
 
-### `npm test`
+Soy Martin Vanacore, desarrollador Junior FullStack de JavaScript (en proceso) y apasionado por el aprendizaje, la tecnologia y los negocios digitales.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Contactame:
+https://twitter.com/MartinVanacore
 
-### `npm run build`
+https://www.linkedin.com/in/martinvanacore/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+------------
+# **Welcome!**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is my first project, from my practice with React.
+Has errors, excuse me, I am learning, it is also the first time I upload to GitHub.
 
-### `npm run eject`
+I will continue uploading the other projects made only with JavaScript and my next practices with React.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**This project is a Loans page that calculates a certain interest according to the amount of money and term.**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* *It has an error detected, which occurs, after making a quote and we modify the amount to zero and / or without a deadline, it does not generate the error message, I will have to fix it.* 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**The web is active in Netlify:**
+https://prestamos-react-mvanacore.netlify.app/
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## # About me
 
-## Learn More
+I'm Martin Vanacore, Junior FullStack JavaScript developer (in process) and passionate about learning, technology and digital business.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Contact Me!:
+https://twitter.com/MartinVanacore
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://www.linkedin.com/in/martinvanacore/
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+------------
